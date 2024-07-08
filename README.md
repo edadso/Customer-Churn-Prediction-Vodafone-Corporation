@@ -40,5 +40,5 @@ Our dataset contains various customer attributes that can help us understand and
 - Email Address: emmanueldadson365@gmail.com<br>
 - LinkedIn Account: [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson)<br>
 #### Below is an image of my dashboard. Kindly take a look and give me feedbacks on what could have been done better
-<img src="images\Dashboard_image.JPG" width="900" height="500" />
+<img src="images\Dashboard_image.JPG" width="750" height="400" />
 
