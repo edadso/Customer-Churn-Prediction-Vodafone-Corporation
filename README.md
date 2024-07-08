@@ -33,9 +33,12 @@ Our dataset contains various customer attributes that can help us understand and
 - **Churn**: Indicates if the customer has churned (Yes) or not (No).
 
 **NB: Kindly find out more about the project here:**<br>
-[Link to Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWI5YTM2NjAtNzZjNC00MjZlLWIwYTAtZDhhYWI5YmE5YTMzIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)<br>
-[Link to Published Article](https://medium.com/@emmanueldadson36/customer-churn-prediction-classification-project-7ecad8b59f2e)
+- [Link to Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWI5YTM2NjAtNzZjNC00MjZlLWIwYTAtZDhhYWI5YmE5YTMzIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)<br>
+- [Link to Published Article](https://medium.com/@emmanueldadson36/customer-churn-prediction-classification-project-7ecad8b59f2e)
 
 ### Personal Information
 - Email Address: emmanueldadson365@gmail.com<br>
-- LinkedIn Account: [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson) 
+- LinkedIn Account: [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson)<br>
+#### Below is an image of my dashboard. Kindly take a look and give me feedbacks on what could have been done better
+<img src="images\Dashboard_image.JPG" width="900" height="500" />
+
