@@ -1,10 +1,23 @@
 # Customer-Churn-Prediction-Vodafone-Corporation
 A Machine Learning model that predicts if a customer will churn or not
 
-## business Understanding
+## Business Understanding
 Customer churn is a critical challenge faced by Telecommunication companies, such as Vodafone Corporation.<br>In an increasingly competitive market, retaining customers is more cost-effective than acquiring new ones.<br>Therefore, understanding and predicting customer churn has become a strategic priority for businesses aiming to enhance customer retention and maximize revenue.
 
+## Project Objective
 This project aims to develop a predictive model to identify customers at risk of churning. By leveraging historical customer data and advanced machine learning techniques, we will uncover patterns and factors contributing to churn.<br>These insights will guide the development of proactive retention strategies, ensuring the business can mitigate churn effectively.
+
+## Methodoloy
+This project adheres to the CRISP-DM (Cross-Industry Standard Process for Data Mining) Framework, a widely recognized approach for data science initiatives.
+We aim to explore the predictive power of six machine learning algorithms
+- Support Vector Machine
+- Decision Tree
+- K-Nearest Neighbor
+- Logistic Regression
+- Random Forest
+- Gradient Boosting Classifier<br>
+
+These algorithms were chosen for their diverse strengths and abilities to handle different types of data and relationships. By applying these algorithms, we seek to identify the most effective model for predicting churn and gain insights into the underlying patterns and relationships in the data. We will evaluate the performance of each algorithm using metrics such as accuracy, precision, recall, and F1-score, ROC curve and compare their results to determine the best approach for our problem.
 
 ## Data Understanding
 Our dataset contains various customer attributes that can help us understand and predict customer churn. Each column represents a different aspect of the customer's profile, service usage, and payment behavior. The columns in our dataset are:
